@@ -8,6 +8,9 @@ altair==4
 tiktoken==0.4.0
 SpeechRecognition==3.10.0
 gTTS==2.3.2
+bs4==0.0.1
+python-docx==0.8.11
+python-pptx==0.6.22
 
 # uncomment to use huggingface llms
 # huggingface-hub==0.14.1
